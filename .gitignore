@@ -37,7 +37,4 @@ build/
 *.egg-info/
 
 # Training data and duplicate/generated model artifacts
-pose_data_combined.csv
-/fall_temporal_hybrid_best.pth
-fall/fall_bigru_model.pth
-training_curves.png
+
