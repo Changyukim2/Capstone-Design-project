@@ -13,13 +13,21 @@ Django 기반의 병동 낙상 감지 대시보드입니다. 카메라 영상에
 
 ## 기술 스택
 
-| 구분 | 기술 |
-| --- | --- |
-| Backend | Django 4, Django Channels |
-| AI/영상 처리 | PyTorch, OpenCV, MediaPipe, NumPy |
-| Realtime | SSE, StreamingHttpResponse |
-| Database | SQLite, Django ORM |
-| 기타 | pygame, Docker |
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-4.x-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django Channels](https://img.shields.io/badge/Django%20Channels-4.x-092E20?style=for-the-badge&logo=django&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![MediaPipe](https://img.shields.io/badge/MediaPipe-Pose-00A6D6?style=for-the-badge&logo=google&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+- Backend: Django, Django Channels
+- AI/영상 처리: PyTorch, OpenCV, MediaPipe, NumPy
+- Realtime: SSE, StreamingHttpResponse
+- Database: SQLite
+- Infra: Docker
 
 ## 빠른 실행
 
